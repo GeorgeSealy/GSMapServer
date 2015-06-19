@@ -1,0 +1,24 @@
+{
+  "name": "LevelServer",
+  "version": "0.0.1",
+  "description": "Server to manage game levels, resources etc",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "game",
+    "level",
+    "design"
+  ],
+  "author": "George Sealy",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "body-parser": "~1.12.4",
+    "connect": "~3.3.5",
+    "compression": "~1.5.0",
+    "cookie-session": "~1.1.0",
+    "serve-static": "~1.9.3",
+    "lwip": "0.0.7"
+  }
+}
